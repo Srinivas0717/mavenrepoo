@@ -73,7 +73,7 @@
 </repository>
 <snapshotRepository>
 <id>nexus</id>
-<name>Snapshot</name>
+<name>Snapshots</name>
 <url>http://35.243.213.100:8081/repository/artifactstonexus-snapshots</url>
 </snapshotRepository>
 </distributionManagement>
